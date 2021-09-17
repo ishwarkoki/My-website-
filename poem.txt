@@ -1,0 +1,7 @@
+This is text file in my website 
+orange 
+red 
+purple 
+blue 
+green 
+red 
