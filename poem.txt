@@ -5,3 +5,6 @@ purple
 blue 
 green 
 red 
+yellow 
+lime 
+safron 
